@@ -1,0 +1,7 @@
+{
+  "username": "app",
+  "password": "password",
+  "listen_addr": "127.0.0.1:443",
+  "tls_cert": "/etc/app/ssl/cert.pem",
+  "tls_key": "/etc/app/ssl/key.pem"
+}
